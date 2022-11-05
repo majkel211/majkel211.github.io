@@ -1,11 +1,8 @@
-p {
-    font: 16px Calibri
+p {font: 14px monospace}
+.Tabeleczka {color: green;}
+a {color: #0c20f7}
+.foto_jesień {
+    width:440px;
+    height:600px;
+    border-radius: 20px;
 }
-.Tabeleczka {
-    color: green;
-}
-a {
-    color: #0c20f7
-}
-.tekst {font-size:180px;
-color:red}
